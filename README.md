@@ -53,7 +53,7 @@ npm >= 6.14.0
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/inspiredrishabh/AI-HOMEO-SUGGESTER
+git clone https://github.com/inspiredrishabh/AI-Homeo-Suggester
 cd Homeopathy
 ```
 
